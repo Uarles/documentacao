@@ -1,5 +1,11 @@
-# Site
-Portfólio 
+# Trabalho Segurança da Informação
+
+Esta documentação refere-se ao trabalho desenvolvido na máteria de Segurança da Informação, ministrada pelo professor [**Pedro Rafante**](https://github.com/pedrorafante), do curso técnico de Desenvolvimento de Sistemas, pela **Proz Educação - sede Divinópolis/MG**
+
+## Criação do site de portifólio profissional do Rinaldo
+
+
+> **💻:** Visite o site desenvolvido: www.rinaldovieira.com.br
 
 Visite o site: www.rinaldovieira.com.br
 
