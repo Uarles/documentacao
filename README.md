@@ -7,11 +7,20 @@ Esta documentação refere-se ao trabalho desenvolvido na máteria de Segurança
 
 > **💻:** Visite o site desenvolvido: www.rinaldovieira.com.br
 
+<details>
+<summary>Imagens</summary>
+<br>
+Imagens dropdown.
+<br><br>
+<pre>
+ 
 ![Pagina Inicial!](/Captura%20de%20tela%202024-07-01%20194418.png "Home")
 
-
 ![Outra Imagem!](/6.png "Home")
-/6.png
+</pre>
+</details>
+
+
 Visite o site: www.rinaldovieira.com.br
 
 Documentação do Projeto de Criação de um Site no WordPress
