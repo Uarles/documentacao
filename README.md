@@ -5,7 +5,6 @@ Esta documentação refere-se ao trabalho desenvolvido na máteria de Segurança
 ## Criação do site de portifólio profissional do Rinaldo
 
 
-> **💻:** Visite o site desenvolvido: www.rinaldovieira.com.br
 
 <details>
 <summary>Imagens</summary>
@@ -26,13 +25,13 @@ Visite o site: www.rinaldovieira.com.br
 Documentação do Projeto de Criação de um Site no WordPress
 Equipe:
  
-Rinaldo Vieira
-Klinger Guedes
-Miguel Muniz
-Uarles Lemes
-Daniela Aparecida
-Lucas Teixeira
-Clério Chagas
+Rinaldo Vieira,
+Klinger Guedes,
+Miguel Muniz,
+Uarles Lemes,
+Daniela Aparecida,
+Lucas Teixeira,
+Clério Chagas.
  
 Escolha do projeto:
 Foi decidido a criação de um website para um integrante do grupo com intuito impulsionar seu projeto pessoal de robótica.
@@ -44,25 +43,43 @@ Introdução
 Este documento descreve o processo de criação de um site no WordPress e as medidas de segurança implementadas tanto no WordPress quanto através do Cloudflare. O objetivo é fornecer um guia detalhado para a implementação de um site seguro, eficiente e de fácil manutenção.
 1. Planejamento do Projeto
 1.1 Objetivos
+<br>
 •	Criar um site responsivo e funcional utilizando o WordPress.
+<br>
 •	Garantir a segurança do site através de práticas recomendadas e o uso de serviços adicionais como o Cloudflare.
+<br>
 •	Implementar um design intuitivo e amigável ao usuário.
+<br>
 1.2 Escopo
+<br>
 •	Configuração inicial do WordPress.
+<br>
 •	Seleção e personalização de um tema.
+<br>
 •	Instalação de plugins essenciais.
+<br>
 •	Implementação de medidas de segurança.
+<br>
 •	Configuração do Cloudflare para otimização de desempenho e segurança.
+<br>
 1.3 Requisitos
+<br>
 •	Acesso a um servidor web com suporte a PHP e MySQL.
+<br>
 •	Domínio registrado.
+<br>
 •	Conta no Cloudflare.
-2. Configuração do WordPress
+<br>
+3. Configuração do WordPress
+<br>
 2.1 Instalação do WordPress
+<br>
 1.	Baixar o WordPress: Acesse o site oficial do WordPress e baixe a última versão.
-2.	Enviar arquivos para o servidor: Utilize um cliente FTP para enviar os arquivos do WordPress para o servidor.
-3.	Configurar o banco de dados: Crie um banco de dados MySQL e um usuário associado.
-4.	Instalar o WordPress: Acesse seu domínio e siga o assistente de instalação, fornecendo as informações do banco de dados.
+<br>
+3.	Enviar arquivos para o servidor: Utilize um cliente FTP para enviar os arquivos do WordPress para o servidor.
+<br>
+5.	Configurar o banco de dados: Crie um banco de dados MySQL e um usuário associado.
+6.	Instalar o WordPress: Acesse seu domínio e siga o assistente de instalação, fornecendo as informações do banco de dados.
 2.2 Seleção e Personalização de Tema
 1.	Escolher um tema: Acesse o repositório de temas do WordPress e selecione um tema que atenda às necessidades do projeto.
 2.	Personalizar o tema: Utilize o personalizador do WordPress para ajustar cores, fontes, e layout.
