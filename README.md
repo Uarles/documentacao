@@ -41,7 +41,9 @@ Monitoramento do projeto:
 Via dailys e monitoramento pelo Trello
 Introdução
 Este documento descreve o processo de criação de um site no WordPress e as medidas de segurança implementadas tanto no WordPress quanto através do Cloudflare. O objetivo é fornecer um guia detalhado para a implementação de um site seguro, eficiente e de fácil manutenção.
+<br>
 1. Planejamento do Projeto
+<br>
 1.1 Objetivos
 <br>
 •	Criar um site responsivo e funcional utilizando o WordPress.
@@ -70,48 +72,88 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 <br>
 •	Conta no Cloudflare.
 <br>
-3. Configuração do WordPress
+2. Configuração do WordPress
 <br>
 2.1 Instalação do WordPress
 <br>
-1.	Baixar o WordPress: Acesse o site oficial do WordPress e baixe a última versão.
+• Baixar o WordPress: Acesse o site oficial do WordPress e baixe a última versão.
 <br>
-3.	Enviar arquivos para o servidor: Utilize um cliente FTP para enviar os arquivos do WordPress para o servidor.
+2.2	Enviar arquivos para o servidor:
 <br>
-5.	Configurar o banco de dados: Crie um banco de dados MySQL e um usuário associado.
-6.	Instalar o WordPress: Acesse seu domínio e siga o assistente de instalação, fornecendo as informações do banco de dados.
-2.2 Seleção e Personalização de Tema
-1.	Escolher um tema: Acesse o repositório de temas do WordPress e selecione um tema que atenda às necessidades do projeto.
-2.	Personalizar o tema: Utilize o personalizador do WordPress para ajustar cores, fontes, e layout.
-2.3 Instalação de Plugins Essenciais
-1.	SEO: Instale um plugin como o Yoast SEO para otimizar o site para mecanismos de busca.
-2.	Backup: Configure um plugin de backup automático, como o UpdraftPlus.
-3.	Segurança: Instale um plugin de segurança, como o Wordfence ou Sucuri.
+• Utilize um cliente FTP para enviar os arquivos do WordPress para o servidor.
+<br>
+2.3 Configurar o banco de dados:
+<br>
+• Crie um banco de dados MySQL e um usuário associado.
+<br>
+2.4	Instalar o WordPress:
+<br>
+• Acesse seu domínio e siga o assistente de instalação, fornecendo as informações do banco de dados.
+<br>
+2.5 Seleção e Personalização de Tema
+<br>
+•	Escolher um tema: Acesse o repositório de temas do WordPress e selecione um tema que atenda às necessidades do projeto.
+<br>
+•	Personalizar o tema: Utilize o personalizador do WordPress para ajustar cores, fontes, e layout.
+<br>
+2.6 Instalação de Plugins Essenciais
+<br>
+•	SEO: Instale um plugin como o Yoast SEO para otimizar o site para mecanismos de busca.
+<br>
+•	Backup: Configure um plugin de backup automático, como o UpdraftPlus.
+<br>
+•	Segurança: Instale um plugin de segurança, como o Wordfence ou Sucuri.
+<br>
 3. Segurança no WordPress
+<br>
 3.1 Atualizações Regulares
+<br>
 •	Atualização do Core: Mantenha o WordPress sempre atualizado para a última versão.
+<br>
 •	Atualização de Plugins e Temas: Verifique e atualize regularmente todos os plugins e temas.
+<br>
 3.2 Gerenciamento de Usuários
+<br>
 •	Privilégios de Usuários: Conceda privilégios mínimos necessários para cada usuário.
+<br>
 •	Autenticação em Duas Etapas: Ative a autenticação em duas etapas (2FA) para todos os usuários administrativos.
+<br>
 3.3 Proteção contra Ataques
+<br>
 •	Firewall de Aplicação Web (WAF): Utilize um WAF para proteger contra ataques comuns como SQL Injection e XSS.
+<br>
 •	Limitação de Tentativas de Login: Instale um plugin que limite tentativas de login para evitar ataques de força bruta.
+<br>
 •	Monitoramento de Atividades: Utilize plugins que monitorem atividades suspeitas no site.
+<br>
 4. Configuração do Cloudflare
+<br>
 4.1 Registro e Configuração Inicial
-1.	Registrar no Cloudflare: Crie uma conta no Cloudflare e adicione seu domínio.
-2.	Alterar DNS: Atualize os registros DNS do seu domínio para usar os servidores DNS do Cloudflare.
-4.2 Segurança com Cloudflare
+<br>
+4.2.	Registrar no Cloudflare: Crie uma conta no Cloudflare e adicione seu domínio.
+<br>
+4.3.	Alterar DNS: Atualize os registros DNS do seu domínio para usar os servidores DNS do Cloudflare.
+<br>
+4.4 Segurança com Cloudflare
+<br>
 •	SSL/TLS: Configure SSL/TLS para criptografar o tráfego entre os visitantes e o servidor.
+<br>
 •	Firewall: Utilize as regras de firewall do Cloudflare para bloquear tráfego malicioso.
+<br>
 •	Proteção DDoS: O Cloudflare fornece proteção contra ataques DDoS automaticamente.
-4.3 Otimização de Desempenho
+<br>
+4.5 Otimização de Desempenho
+<br>
 •	CDN: Ative a CDN do Cloudflare para armazenar em cache conteúdo estático e melhorar a velocidade de carregamento.
+<br>
 •	Minificação: Utilize as opções de minificação do Cloudflare para reduzir o tamanho de arquivos CSS, JavaScript e HTML.
+<br>
 •	Armazenamento em Cache: Configure as opções de cache para armazenar conteúdo frequentemente acessado.
+<br>
 5. Conclusão
+<br>
 A criação de um site no WordPress requer planejamento cuidadoso, desde a configuração inicial até a implementação de medidas de segurança. Utilizar serviços adicionais como o Cloudflare pode ajudar a proteger e otimizar o desempenho do site. Esta documentação serve como um guia para garantir que todas as etapas essenciais sejam cobertas, resultando em um site seguro, eficiente e de fácil manutenção.
+<br>
 6. Referências
 •	Documentação Oficial do WordPress
 •	Guia de Segurança do WordPress
