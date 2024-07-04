@@ -138,7 +138,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 <br>
 •	SSL/TLS: Configure SSL/TLS para criptografar o tráfego entre os visitantes e o servidor.
 <br>
-•	Firewall: Utilize as regras de firewall do Cloudflare para bloquear tráfego malicioso.
+•	Firewall: Utilize as regras de firewall do Cloudflare para bloquear tráfego malicioso :supervillain_man:.
 <br>
 •	Proteção DDoS: O Cloudflare fornece proteção contra ataques DDoS automaticamente.
 <br>
@@ -152,7 +152,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 <br>
 5. Conclusão
 <br>
-A criação de um site no WordPress requer planejamento cuidadoso, desde a configuração inicial até a implementação de medidas de segurança. Utilizar serviços adicionais como o Cloudflare pode ajudar a proteger e otimizar o desempenho do site. Esta documentação serve como um guia para garantir que todas as etapas essenciais sejam cobertas, resultando em um site seguro, eficiente e de fácil manutenção.
+A criação de um site no WordPress requer planejamento cuidadoso, desde a configuração inicial até a implementação de medidas de segurança :lock:. Utilizar serviços adicionais como o Cloudflare pode ajudar a proteger e otimizar o desempenho do site. Esta documentação serve como um guia para garantir que todas as etapas essenciais sejam cobertas, resultando em um site seguro, eficiente e de fácil manutenção :wrench:.
 <br>
 6. Referências
 •	Documentação Oficial do WordPress
