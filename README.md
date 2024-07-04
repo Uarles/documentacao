@@ -5,21 +5,6 @@ Esta documentação refere-se ao trabalho desenvolvido na máteria de Segurança
 ## Criação do site de portifólio profissional do Rinaldo
 
 
-
-<details>
-<summary>Imagens</summary>
-<br>
-Imagens dropdown.
-<br><br>
-<pre>
- 
-![Pagina Inicial!](/Captura%20de%20tela%202024-07-01%20194418.png "Home")
-
-![Outra Imagem!](/6.png "Home")
-</pre>
-</details>
-
-
 Visite o site: www.rinaldovieira.com.br
 
 <h1>Documentação do Projeto de Criação de um Site no WordPress</h1>
@@ -43,6 +28,20 @@ Clério Chagas.
  
 Escolha do projeto:
 Foi decidido a criação de um website para um integrante do grupo com intuito impulsionar seu projeto pessoal de robótica.
+<br>
+<details>
+<summary>Imagens</summary>
+<br>
+Imagens dropdown.
+<br><br>
+<pre>
+ 
+![Pagina Inicial!](/Captura%20de%20tela%202024-07-01%20194418.png "Home")
+
+![Outra Imagem!](/6.png "Home")
+</pre>
+</details>
+
 Ferramentas que foram utilizadas:
 [**Wordpress**](https://wordpress.com/pt-br/) , [**Trello**](https://trello.com/pt-BR),  [**Elementor**](https://elementor.com/), [**Hospedagem Turbo Cloud**](https://wordpress.com/pt-br/),  [**Coudflare**](https://www.cloudflare.com/pt-br/lp/ppc/overview-x/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-latam_en_casa-umbrella-ge-ge-prospecting-sch_g_brand_alpha&utm_content=Alpha_Brand_Umbrella_Core&utm_term=cloudflare&campaignid=71700000112000371&adgroupid=58700008461369612&creativeid=664212396473&&_bt=664212396473&_bk=cloudflare&_bm=p&_bn=g&_bg=150613024493&_placement=&_target=&_loc=1001570&_dv=c&awsearchcpc=1&gad_source=1&gclid=EAIaIQobChMIoN3y1YGHhwMVyQCtBh0AjQ2_EAAYASAAEgLe0fD_BwE&gclsrc=aw.ds) e  [**Figma**](https://www.figma.com/login?is_not_gen_0=true&resource_type=team).
 Monitoramento do projeto:
