@@ -22,16 +22,24 @@ Imagens dropdown.
 
 Visite o site: www.rinaldovieira.com.br
 
-Documentação do Projeto de Criação de um Site no WordPress
-Equipe:
+<h1>Documentação do Projeto de Criação de um Site no WordPress</h1>
+<br>
+<h3>Equipe:</h3>
  
-Rinaldo Vieira,
-Klinger Guedes,
-Miguel Muniz,
-Uarles Lemes,
-Daniela Aparecida,
-Lucas Teixeira,
+Rinaldo Vieira
+<br>
+Klinger Guedes
+<br>
+Miguel Muniz
+<br>
+Uarles Lemes
+<br>
+Daniela Aparecida
+<br>
+Lucas Teixeira
+<br>
 Clério Chagas.
+<br>
  
 Escolha do projeto:
 Foi decidido a criação de um website para um integrante do grupo com intuito impulsionar seu projeto pessoal de robótica.
