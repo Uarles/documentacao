@@ -36,7 +36,7 @@ Imagens dropdown.
 <br><br>
 <pre>
  
-![Pagina Inicial!](/Captura%20de%20tela%202024-07-01%20194418.png "Home")
+![Pagina Inicial!](/b1f2f855-348d-443b-b76d-b98b0ca86db5.jpg "Home")
 
 ![Outra Imagem!](/6.png "Home")
 </pre>
