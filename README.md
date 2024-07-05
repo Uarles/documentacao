@@ -26,7 +26,7 @@ Lucas Teixeira
 Clério Chagas.
 <br>
  
-Escolha do projeto:
+<h3>Escolha do projeto:</h3>
 Foi decidido a criação de um website para um integrante do grupo com intuito impulsionar seu projeto pessoal de robótica.
 <br>
 <details>
