@@ -15,7 +15,7 @@ Rinaldo Vieira
 <br>
 Klinger Guedes
 <br>
-Miguel Muniz
+Miguel Munis
 <br>
 Uarles Lemes
 <br>
