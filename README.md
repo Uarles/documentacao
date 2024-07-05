@@ -30,7 +30,7 @@ Escolha do projeto:
 Foi decidido a criação de um website para um integrante do grupo com intuito impulsionar seu projeto pessoal de robótica.
 <br>
 <details>
-<summary>Imagens</summary>
+<summary>Imagens do site</summary>
 <br>
 Imagens dropdown.
 <br><br>
