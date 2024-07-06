@@ -31,6 +31,8 @@ Clério Chagas.
  
 <h3>Escolha do projeto:</h3>
 Foi decidido a criação de um website para um integrante do grupo com intuito impulsionar seu projeto pessoal de robótica.
+
+
 <br>
 
 ![This is an alt text.](/b1f2f855-348d-443b-b76d-b98b0ca86db5.jpg)
@@ -45,11 +47,11 @@ Via dailys e monitoramento pelo Trello
 Introdução
 Este documento descreve o processo de criação de um site no WordPress e as medidas de segurança implementadas tanto no WordPress quanto através do Cloudflare. O objetivo é fornecer um guia detalhado para a implementação de um site seguro, eficiente e de fácil manutenção.
 <br>
-<h1>Planejamento do Projeto</h1>
+<h1> 📰 Planejamento do Projeto</h1>
 <br>
 
 <details>
-<summary>  <strong>Objetivos</strong> </summary>
+<summary>  <strong>🎯Objetivos</strong> </summary>
 <pre>
 •	Criar um site responsivo e funcional utilizando o WordPress.
 <br>
@@ -59,8 +61,9 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </pre>
 </details>
 
+
 <details>
-<summary><strong>Escopo</strong></summary>
+<summary><strong> 🔍 Escopo</strong></summary>
 <br>
 <pre>
 •	Configuração inicial do WordPress.
@@ -77,7 +80,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary><strong> Requisitos</strong></summary>
+<summary><strong> 📝 Requisitos</strong></summary>
 <br>
 <pre>
 <br>
@@ -90,7 +93,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary><strong> Instalação do WordPress</strong></summary>
+<summary><strong> 💡 Instalação do WordPress</strong></summary>
 <br>
 <pre>
 • Baixar o WordPress: Acesse o site oficial do WordPress e baixe a última versão.
@@ -100,7 +103,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary> <strong>Segurança no WordPress</strong></summary>
+<summary> <strong> :lock: Segurança no WordPress</strong></summary>
 <br>
 <pre>
 • Instalação de Plugins Essenciais
@@ -115,7 +118,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary> <strong>Enviar arquivos para o servidor</strong></summary>
+<summary> <strong> 	:cloud: Enviar arquivos para o servidor</strong></summary>
 <br>
 <pre>
 • Utilize um cliente FTP para enviar os arquivos do WordPress para o servidor.
@@ -124,7 +127,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary><strong> Configurar o banco de dados</strong></summary>
+<summary><strong> :bar_chart: Configurar o banco de dados</strong></summary>
 <br>
 <pre>
 • Crie um banco de dados MySQL e um usuário associado.
@@ -132,7 +135,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary> <strong>Seleção e Personalização de Tema</strong></summary>
+<summary> <strong> :a:Seleção e Personalização de Tema</strong></summary>
 <br>
 <pre>
 •	Escolher um tema: Acesse o repositório de temas do WordPress e selecione um tema que atenda às necessidades do projeto.
@@ -142,7 +145,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary> <strong> Atualizações Regulares</strong></summary>
+<summary> <strong> 	:arrows_clockwise: Atualizações Regulares</strong></summary>
 <br>
 <pre>
 •	Atualização do Core: Mantenha o WordPress sempre atualizado para a última versão.
@@ -152,7 +155,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary> <strong> Gerenciamento de Usuários</strong></summary>
+<summary> <strong> :chart_with_upwards_trend: Gerenciamento de Usuários</strong></summary>
 <br>
 <pre>
 •	Privilégios de Usuários: Conceda privilégios mínimos necessários para cada usuário.
@@ -162,7 +165,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary><strong> Proteção contra Ataques</strong></summary>
+<summary><strong> :robot: Proteção contra Ataques</strong></summary>
 <br>
 <pre>
 •	Firewall de Aplicação Web (WAF): Utilize um WAF para proteger contra ataques comuns como SQL Injection e XSS.
@@ -174,7 +177,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary><strong> Cloudflare</strong></summary>
+<summary><strong> :globe_with_meridians: Cloudflare</strong></summary>
 <br>
 <pre>
 • Registro e Configuração Inicial
@@ -186,7 +189,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary><strong>Segurança com Cloudflare</strong></summary>
+<summary><strong> :lock: Segurança com Cloudflare</strong></summary>
 <br>
 <pre>
 •	SSL/TLS: Configure SSL/TLS para criptografar o tráfego entre os visitantes e o servidor.
@@ -198,7 +201,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary> <strong>Otimização de Desempenho</strong></summary>
+<summary> <strong> :chart_with_upwards_trend: Otimização de Desempenho</strong></summary>
 <br>
 <pre>
 •	CDN: Ative a CDN do Cloudflare para armazenar em cache conteúdo estático e melhorar a velocidade de carregamento.
@@ -210,7 +213,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 </details>
 
 <details>
-<summary> <strong>Conclusão</strong></summary>
+<summary> <strong> 	:heavy_check_mark: Conclusão</strong></summary>
 <br>
 <pre>
 <strong>A criação de um site no WordPress requer planejamento cuidadoso, desde a configuração inicial até a implementação de medidas<br> de segurança :lock:. Utilizar serviços adicionais como o Cloudflare pode ajudar a proteger e otimizar<br> o desempenho do site. Esta documentação serve como um guia para garantir que todas as etapas essenciais sejam cobertas,<br> resultando em um site seguro, eficiente e de fácil manutenção :wrench:.</strong>
