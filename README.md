@@ -1,11 +1,10 @@
 
 
-<h1 class"titulo"># Trabalho Segurança da Informação</h1>
+<h1> :lock: Trabalho Segurança da Informação</h1>
 
 Esta é uma documentação de um **Site de Portfólio**, de um dos integrante do grupo [**Rinaldo Vieira**](https://github.com/Rinaldovc), que decidiu expandir mais seu trabalho profissional que é ensinar roboica, foi feita em sala de aula, foi ultilizado todas as ferramentas profissionais que sera ditas logo a segui, tendo como professor  [**Pedro Rafante**](https://github.com/pedrorafante), do curso técnico de Desenvolvimento de Sistemas, pela **Proz Educação - sede Divinópolis/MG**
 
 ## Criação do site de portifólio profissional do Rinaldo
-
 
 
 
@@ -14,14 +13,14 @@ Visite o site: www.rinaldovieira.com.br
 <h1>Documentação do Projeto de Criação de um Site no WordPress</h1>
 <br>
 <h3>Equipe:</h3>
- 
+
 Rinaldo Vieira
 <br>
 Klinger Guedes
 <br>
 Miguel Munis
 <br>
-Uarles Lemes
+ Uarles Lemes
 <br>
 Daniela Aparecida
 <br>
