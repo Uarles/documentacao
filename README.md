@@ -45,9 +45,9 @@ Imagens dropdown.
 ![This is an alt text.](/b1f2f855-348d-443b-b76d-b98b0ca86db5.jpg)
 ![This is an alt text.](/bd3ea920-d73f-4f02-b192-4b121c387e89.jpg)
 ![This is an alt text.](/e8f4d8b0-1d3a-413b-9ed7-37470b52a244.jpg)
-![This is an alt text.](/f97ff09d-5cee-494e-842d-ad409d009ebc.jpg)
+![This is an alt text.](/f97ff09d-5cee-494e-842d-ad409d009ebc.jpg )
 
-![This is an alt text.](/image/sample.webp "This is a sample image.")
+ <img src=”/f97ff09d-5cee-494e-842d-ad409d009ebc.jpg”>
 
 Ferramentas que foram utilizadas:
 [**Wordpress**](https://wordpress.com/pt-br/) , [**Trello**](https://trello.com/pt-BR),  [**Elementor**](https://elementor.com/), [**Hospedagem Turbo Cloud**](https://wordpress.com/pt-br/),  [**Coudflare**](https://www.cloudflare.com/pt-br/lp/ppc/overview-x/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-latam_en_casa-umbrella-ge-ge-prospecting-sch_g_brand_alpha&utm_content=Alpha_Brand_Umbrella_Core&utm_term=cloudflare&campaignid=71700000112000371&adgroupid=58700008461369612&creativeid=664212396473&&_bt=664212396473&_bk=cloudflare&_bm=p&_bn=g&_bg=150613024493&_placement=&_target=&_loc=1001570&_dv=c&awsearchcpc=1&gad_source=1&gclid=EAIaIQobChMIoN3y1YGHhwMVyQCtBh0AjQ2_EAAYASAAEgLe0fD_BwE&gclsrc=aw.ds) e  [**Figma**](https://www.figma.com/login?is_not_gen_0=true&resource_type=team).
@@ -56,11 +56,11 @@ Via dailys e monitoramento pelo Trello
 Introdução
 Este documento descreve o processo de criação de um site no WordPress e as medidas de segurança implementadas tanto no WordPress quanto através do Cloudflare. O objetivo é fornecer um guia detalhado para a implementação de um site seguro, eficiente e de fácil manutenção.
 <br>
-Planejamento do Projeto
+<h1>Planejamento do Projeto</h1>
 <br>
 
 <details>
-<summary> Objetivos</summary>
+<summary>  <strong>Objetivos</strong> </summary>
 <pre>
 •	Criar um site responsivo e funcional utilizando o WordPress.
 <br>
@@ -71,7 +71,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary>Escopo</summary>
+<summary><strong>Escopo</strong></summary>
 <br>
 <pre>
 •	Configuração inicial do WordPress.
@@ -88,7 +88,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary> Requisitos</summary>
+<summary><strong> Requisitos</strong></summary>
 <br>
 <pre>
 <br>
@@ -101,7 +101,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary> Instalação do WordPress</summary>
+<summary><strong> Instalação do WordPress</strong></summary>
 <br>
 <pre>
 • Baixar o WordPress: Acesse o site oficial do WordPress e baixe a última versão.
@@ -111,7 +111,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary> Segurança no WordPress</summary>
+<summary> <strong>Segurança no WordPress</strong></summary>
 <br>
 <pre>
 • Instalação de Plugins Essenciais
@@ -126,7 +126,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary>Enviar arquivos para o servidor</summary>
+<summary> <strong>Enviar arquivos para o servidor</strong></summary>
 <br>
 <pre>
 • Utilize um cliente FTP para enviar os arquivos do WordPress para o servidor.
@@ -135,7 +135,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary> Configurar o banco de dados</summary>
+<summary><strong> Configurar o banco de dados</strong></summary>
 <br>
 <pre>
 • Crie um banco de dados MySQL e um usuário associado.
@@ -143,7 +143,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary> Seleção e Personalização de Tema</summary>
+<summary> <strong>Seleção e Personalização de Tema</strong></summary>
 <br>
 <pre>
 •	Escolher um tema: Acesse o repositório de temas do WordPress e selecione um tema que atenda às necessidades do projeto.
@@ -153,7 +153,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary>  Atualizações Regulares</summary>
+<summary> <strong> Atualizações Regulares</strong></summary>
 <br>
 <pre>
 •	Atualização do Core: Mantenha o WordPress sempre atualizado para a última versão.
@@ -163,7 +163,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary>  Gerenciamento de Usuários</summary>
+<summary> <strong> Gerenciamento de Usuários</strong></summary>
 <br>
 <pre>
 •	Privilégios de Usuários: Conceda privilégios mínimos necessários para cada usuário.
@@ -173,7 +173,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary> Proteção contra Ataques</summary>
+<summary><strong> Proteção contra Ataques</strong></summary>
 <br>
 <pre>
 •	Firewall de Aplicação Web (WAF): Utilize um WAF para proteger contra ataques comuns como SQL Injection e XSS.
@@ -185,7 +185,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary> Cloudflare</summary>
+<summary><strong> Cloudflare</strong></summary>
 <br>
 <pre>
 • Registro e Configuração Inicial
@@ -197,7 +197,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary>Segurança com Cloudflare</summary>
+<summary><strong>Segurança com Cloudflare</strong></summary>
 <br>
 <pre>
 •	SSL/TLS: Configure SSL/TLS para criptografar o tráfego entre os visitantes e o servidor.
@@ -209,7 +209,7 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary>Otimização de Desempenho</summary>
+<summary> <strong>Otimização de Desempenho</strong></summary>
 <br>
 <pre>
 •	CDN: Ative a CDN do Cloudflare para armazenar em cache conteúdo estático e melhorar a velocidade de carregamento.
@@ -221,12 +221,12 @@ Planejamento do Projeto
 </details>
 
 <details>
-<summary>Conclusão</summary>
+<summary> <strong>Conclusão</strong></summary>
 <br>
 <pre>
-A criação de um site no WordPress requer planejamento cuidadoso, desde a configuração inicial até a implementação de medidas<br> de segurança :lock:. Utilizar serviços adicionais como o Cloudflare pode ajudar a proteger e otimizar<br> o desempenho do site. Esta documentação serve como um guia para garantir que todas as etapas essenciais sejam cobertas,<br> resultando em um site seguro, eficiente e de fácil manutenção :wrench:.
+<strong>A criação de um site no WordPress requer planejamento cuidadoso, desde a configuração inicial até a implementação de medidas<br> de segurança :lock:. Utilizar serviços adicionais como o Cloudflare pode ajudar a proteger e otimizar<br> o desempenho do site. Esta documentação serve como um guia para garantir que todas as etapas essenciais sejam cobertas,<br> resultando em um site seguro, eficiente e de fácil manutenção :wrench:.</strong>
 <br>
-###Referências
+<h3>Referências</h3>
  <br>
 •	Documentação Oficial do WordPress
  <br>
