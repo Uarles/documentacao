@@ -2,7 +2,7 @@
 
 <h1> :lock: Trabalho Segurança da Informação</h1>
 
-Esta é uma documentação de um **Site de Portfólio**, de um dos integrante do grupo [**Rinaldo Vieira**](https://github.com/Rinaldovc), que decidiu expandir mais seu trabalho profissional que é ensinar roboica, foi feita em sala de aula, foi ultilizado todas as ferramentas profissionais que sera ditas logo a segui, tendo como professor  [**Pedro Rafante**](https://github.com/pedrorafante), do curso técnico de Desenvolvimento de Sistemas, pela **Proz Educação - sede Divinópolis/MG**
+Esta é uma documentação de um **Site de Portfólio**, de um dos integrante do grupo [**Rinaldo Vieira**](https://github.com/Rinaldovc), que decidiu expandir mais seu trabalho profissional que é ensinar robótica, foi feita em sala de aula, foi ultilizado todas as ferramentas profissionais que sera ditas logo a segui, tendo como professor  [**Pedro Rafante**](https://github.com/pedrorafante), do curso técnico de Desenvolvimento de Sistemas, pela **Proz Educação - sede Divinópolis/MG**
 
 ## Criação do site de portifólio profissional do Rinaldo
 
@@ -39,11 +39,6 @@ Imagens dropdown.
 <br><br>
 <pre>
  
-![Pagina Inicial!](/b1f2f855-348d-443b-b76d-b98b0ca86db5.jpg "Home")
-
-![Outra Imagem!](/bd3ea920-d73f-4f02-b192-4b121c387e89.jpg "Home")
-![Outra Imagem!](/e8f4d8b0-1d3a-413b-9ed7-37470b52a244.jpg)
-![Outra Imagem!](/f97ff09d-5cee-494e-842d-ad409d009ebc.jpg)
 </pre>
 </details>
 
@@ -61,18 +56,24 @@ Via dailys e monitoramento pelo Trello
 Introdução
 Este documento descreve o processo de criação de um site no WordPress e as medidas de segurança implementadas tanto no WordPress quanto através do Cloudflare. O objetivo é fornecer um guia detalhado para a implementação de um site seguro, eficiente e de fácil manutenção.
 <br>
-1. Planejamento do Projeto
+Planejamento do Projeto
 <br>
-1.1 Objetivos
-<br>
+
+<details>
+<summary> Objetivos</summary>
+<pre>
 •	Criar um site responsivo e funcional utilizando o WordPress.
 <br>
 •	Garantir a segurança do site através de práticas recomendadas e o uso de serviços adicionais como o Cloudflare.
 <br>
 •	Implementar um design intuitivo e amigável ao usuário.
+</pre>
+</details>
+
+<details>
+<summary>Escopo</summary>
 <br>
-1.2 Escopo
-<br>
+<pre>
 •	Configuração inicial do WordPress.
 <br>
 •	Seleção e personalização de um tema.
@@ -83,39 +84,37 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 <br>
 •	Configuração do Cloudflare para otimização de desempenho e segurança.
 <br>
-1.3 Requisitos
+ </pre>
+</details>
+
+<details>
+<summary> Requisitos</summary>
+<br>
+<pre>
 <br>
 •	Acesso a um servidor web com suporte a PHP e MySQL.
 <br>
 •	Domínio registrado.
 <br>
 •	Conta no Cloudflare.
+ </pre>
+</details>
+
+<details>
+<summary> Instalação do WordPress</summary>
 <br>
-2. Configuração do WordPress
-<br>
-2.1 Instalação do WordPress
-<br>
+<pre>
 • Baixar o WordPress: Acesse o site oficial do WordPress e baixe a última versão.
 <br>
-2.2	Enviar arquivos para o servidor:
-<br>
-• Utilize um cliente FTP para enviar os arquivos do WordPress para o servidor.
-<br>
-2.3 Configurar o banco de dados:
-<br>
-• Crie um banco de dados MySQL e um usuário associado.
-<br>
-2.4	Instalar o WordPress:
-<br>
 • Acesse seu domínio e siga o assistente de instalação, fornecendo as informações do banco de dados.
+ </pre>
+</details>
+
+<details>
+<summary> Segurança no WordPress</summary>
 <br>
-2.5 Seleção e Personalização de Tema
-<br>
-•	Escolher um tema: Acesse o repositório de temas do WordPress e selecione um tema que atenda às necessidades do projeto.
-<br>
-•	Personalizar o tema: Utilize o personalizador do WordPress para ajustar cores, fontes, e layout.
-<br>
-2.6 Instalação de Plugins Essenciais
+<pre>
+• Instalação de Plugins Essenciais
 <br>
 •	SEO: Instale um plugin como o Yoast SEO para otimizar o site para mecanismos de busca.
 <br>
@@ -123,57 +122,116 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 <br>
 •	Segurança: Instale um plugin de segurança, como o Wordfence ou Sucuri.
 <br>
-3. Segurança no WordPress
+</pre>
+</details>
+
+<details>
+<summary>Enviar arquivos para o servidor</summary>
 <br>
-3.1 Atualizações Regulares
+<pre>
+• Utilize um cliente FTP para enviar os arquivos do WordPress para o servidor.
 <br>
+ </pre>
+</details>
+
+<details>
+<summary> Configurar o banco de dados</summary>
+<br>
+<pre>
+• Crie um banco de dados MySQL e um usuário associado.
+ </pre>
+</details>
+
+<details>
+<summary> Seleção e Personalização de Tema</summary>
+<br>
+<pre>
+•	Escolher um tema: Acesse o repositório de temas do WordPress e selecione um tema que atenda às necessidades do projeto.
+<br>
+•	Personalizar o tema: Utilize o personalizador do WordPress para ajustar cores, fontes, e layout.
+ </pre>
+</details>
+
+<details>
+<summary>  Atualizações Regulares</summary>
+<br>
+<pre>
 •	Atualização do Core: Mantenha o WordPress sempre atualizado para a última versão.
 <br>
 •	Atualização de Plugins e Temas: Verifique e atualize regularmente todos os plugins e temas.
+ </pre>
+</details>
+
+<details>
+<summary>  Gerenciamento de Usuários</summary>
 <br>
-3.2 Gerenciamento de Usuários
-<br>
+<pre>
 •	Privilégios de Usuários: Conceda privilégios mínimos necessários para cada usuário.
 <br>
 •	Autenticação em Duas Etapas: Ative a autenticação em duas etapas (2FA) para todos os usuários administrativos.
+ </pre>
+</details>
+
+<details>
+<summary> Proteção contra Ataques</summary>
 <br>
-3.3 Proteção contra Ataques
-<br>
+<pre>
 •	Firewall de Aplicação Web (WAF): Utilize um WAF para proteger contra ataques comuns como SQL Injection e XSS.
 <br>
 •	Limitação de Tentativas de Login: Instale um plugin que limite tentativas de login para evitar ataques de força bruta.
 <br>
 •	Monitoramento de Atividades: Utilize plugins que monitorem atividades suspeitas no site.
+ </pre>
+</details>
+
+<details>
+<summary> Cloudflare</summary>
 <br>
-4. Configuração do Cloudflare
+<pre>
+• Registro e Configuração Inicial
 <br>
-4.1 Registro e Configuração Inicial
+•	Registrar no Cloudflare: Crie uma conta no Cloudflare e adicione seu domínio.
 <br>
-4.2.	Registrar no Cloudflare: Crie uma conta no Cloudflare e adicione seu domínio.
+•	Alterar DNS: Atualize os registros DNS do seu domínio para usar os servidores DNS do Cloudflare.
+ </pre>
+</details>
+
+<details>
+<summary>Segurança com Cloudflare</summary>
 <br>
-4.3.	Alterar DNS: Atualize os registros DNS do seu domínio para usar os servidores DNS do Cloudflare.
-<br>
-4.4 Segurança com Cloudflare
-<br>
+<pre>
 •	SSL/TLS: Configure SSL/TLS para criptografar o tráfego entre os visitantes e o servidor.
 <br>
 •	Firewall: Utilize as regras de firewall do Cloudflare para bloquear tráfego malicioso :supervillain_man:.
 <br>
 •	Proteção DDoS: O Cloudflare fornece proteção contra ataques DDoS automaticamente.
+ </pre>
+</details>
+
+<details>
+<summary>Otimização de Desempenho</summary>
 <br>
-4.5 Otimização de Desempenho
-<br>
+<pre>
 •	CDN: Ative a CDN do Cloudflare para armazenar em cache conteúdo estático e melhorar a velocidade de carregamento.
 <br>
 •	Minificação: Utilize as opções de minificação do Cloudflare para reduzir o tamanho de arquivos CSS, JavaScript e HTML.
 <br>
 •	Armazenamento em Cache: Configure as opções de cache para armazenar conteúdo frequentemente acessado.
+ </pre>
+</details>
+
+<details>
+<summary>Conclusão</summary>
 <br>
-5. Conclusão
+<pre>
+A criação de um site no WordPress requer planejamento cuidadoso, desde a configuração inicial até a implementação de medidas<br> de segurança :lock:. Utilizar serviços adicionais como o Cloudflare pode ajudar a proteger e otimizar<br> o desempenho do site. Esta documentação serve como um guia para garantir que todas as etapas essenciais sejam cobertas,<br> resultando em um site seguro, eficiente e de fácil manutenção :wrench:.
 <br>
-A criação de um site no WordPress requer planejamento cuidadoso, desde a configuração inicial até a implementação de medidas de segurança :lock:. Utilizar serviços adicionais como o Cloudflare pode ajudar a proteger e otimizar o desempenho do site. Esta documentação serve como um guia para garantir que todas as etapas essenciais sejam cobertas, resultando em um site seguro, eficiente e de fácil manutenção :wrench:.
-<br>
-6. Referências
+###Referências
+ <br>
 •	Documentação Oficial do WordPress
+ <br>
 •	Guia de Segurança do WordPress
+ <br>
 •	Documentação do Cloudflare
+</pre>
+</details>
