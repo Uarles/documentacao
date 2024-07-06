@@ -1,8 +1,12 @@
-# Trabalho Segurança da Informação
 
-Esta documentação refere-se ao trabalho desenvolvido na máteria de Segurança da Informação, ministrada pelo professor [**Pedro Rafante**](https://github.com/pedrorafante), do curso técnico de Desenvolvimento de Sistemas, pela **Proz Educação - sede Divinópolis/MG**
+
+<h1 class"titulo"># Trabalho Segurança da Informação</h1>
+
+Esta é uma documentação de um **Site de Portfólio**, de um dos integrante do grupo [**Rinaldo Vieira**](https://github.com/Rinaldovc/Site/blob/main/README.md), que decidiu expandir mais seu trabalho profissional que é ensinar roboica, foi feita em sala de aula, foi ultilizado todas as ferramentas profissionais que sera ditas logo a segui, tendo como professor  [**Pedro Rafante**](https://github.com/pedrorafante), do curso técnico de Desenvolvimento de Sistemas, pela **Proz Educação - sede Divinópolis/MG**
 
 ## Criação do site de portifólio profissional do Rinaldo
+
+
 
 
 Visite o site: www.rinaldovieira.com.br
@@ -43,6 +47,13 @@ Imagens dropdown.
 ![Outra Imagem!](/f97ff09d-5cee-494e-842d-ad409d009ebc.jpg)
 </pre>
 </details>
+
+![This is an alt text.](/b1f2f855-348d-443b-b76d-b98b0ca86db5.jpg)
+![This is an alt text.](/bd3ea920-d73f-4f02-b192-4b121c387e89.jpg)
+![This is an alt text.](/e8f4d8b0-1d3a-413b-9ed7-37470b52a244.jpg)
+![This is an alt text.](/f97ff09d-5cee-494e-842d-ad409d009ebc.jpg)
+
+![This is an alt text.](/image/sample.webp "This is a sample image.")
 
 Ferramentas que foram utilizadas:
 [**Wordpress**](https://wordpress.com/pt-br/) , [**Trello**](https://trello.com/pt-BR),  [**Elementor**](https://elementor.com/), [**Hospedagem Turbo Cloud**](https://wordpress.com/pt-br/),  [**Coudflare**](https://www.cloudflare.com/pt-br/lp/ppc/overview-x/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-latam_en_casa-umbrella-ge-ge-prospecting-sch_g_brand_alpha&utm_content=Alpha_Brand_Umbrella_Core&utm_term=cloudflare&campaignid=71700000112000371&adgroupid=58700008461369612&creativeid=664212396473&&_bt=664212396473&_bk=cloudflare&_bm=p&_bn=g&_bg=150613024493&_placement=&_target=&_loc=1001570&_dv=c&awsearchcpc=1&gad_source=1&gclid=EAIaIQobChMIoN3y1YGHhwMVyQCtBh0AjQ2_EAAYASAAEgLe0fD_BwE&gclsrc=aw.ds) e  [**Figma**](https://www.figma.com/login?is_not_gen_0=true&resource_type=team).
