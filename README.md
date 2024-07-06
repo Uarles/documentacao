@@ -2,7 +2,7 @@
 
 <h1 class"titulo"># Trabalho Segurança da Informação</h1>
 
-Esta é uma documentação de um **Site de Portfólio**, de um dos integrante do grupo [**Rinaldo Vieira**](https://github.com/Rinaldovc/Site/blob/main/README.md), que decidiu expandir mais seu trabalho profissional que é ensinar roboica, foi feita em sala de aula, foi ultilizado todas as ferramentas profissionais que sera ditas logo a segui, tendo como professor  [**Pedro Rafante**](https://github.com/pedrorafante), do curso técnico de Desenvolvimento de Sistemas, pela **Proz Educação - sede Divinópolis/MG**
+Esta é uma documentação de um **Site de Portfólio**, de um dos integrante do grupo [**Rinaldo Vieira**](https://github.com/Rinaldovc), que decidiu expandir mais seu trabalho profissional que é ensinar roboica, foi feita em sala de aula, foi ultilizado todas as ferramentas profissionais que sera ditas logo a segui, tendo como professor  [**Pedro Rafante**](https://github.com/pedrorafante), do curso técnico de Desenvolvimento de Sistemas, pela **Proz Educação - sede Divinópolis/MG**
 
 ## Criação do site de portifólio profissional do Rinaldo
 
