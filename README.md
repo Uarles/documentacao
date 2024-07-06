@@ -14,13 +14,13 @@ Visite o site: www.rinaldovieira.com.br
 <br>
 <h3>Equipe:</h3>
 
-Rinaldo Vieira
+[**Rinaldo Vieira**](https://github.com/Rinaldovc)
 <br>
 Klinger Guedes
 <br>
 Miguel Munis
 <br>
- Uarles Lemes
+ [**Uarles Lemes**](https://github.com/Uarles)
 <br>
 Daniela Aparecida
 <br>
