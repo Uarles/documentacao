@@ -27,8 +27,11 @@ Clério Chagas.
  
 <h3>Escolha do projeto:</h3>
 Foi decidido a criação de um website para um integrante do grupo com intuito impulsionar seu projeto pessoal de robótica, foi escolhido as melhores ferramentas do mercado, para ter mais velocidade, Experiência de Usuário, funcionalidade e mais segurança, entre outros, usamos 
-metodologia ágil, e com o bom entendimento entre o grupo, em pouco tempo conseguimos entregar o projeto que foi bem sucedido.	:heavy_check_mark:
+metodologia ágil, e com o bom entendimento entre o grupo, em pouco tempo conseguimos entregar o projeto que foi bem sucedido.
+
 <br></br>
+
+<h3>Imagens do Site</h3>
 
 ![This is an alt text.](/b1f2f855-348d-443b-b76d-b98b0ca86db5.jpg)
 ![This is an alt text.](/bd3ea920-d73f-4f02-b192-4b121c387e89.jpg)
@@ -38,10 +41,8 @@ metodologia ágil, e com o bom entendimento entre o grupo, em pouco tempo conseg
 <h3> Ferramentas que foram utilizadas  </h3>
 
 [**Wordpress**](https://wordpress.com/pt-br/) <br> [**Trello**](https://trello.com/pt-BR) <br> [**Elementor**](https://elementor.com/) <br> [**Hospedagem Turbo Cloud**](https://wordpress.com/pt-br/) <br> [**Coudflare**](https://www.cloudflare.com/pt-br/lp/ppc/overview-x/?utm_source=google&utm_medium=cpc&utm_campaign=ao-fy-acq-latam_en_casa-umbrella-ge-ge-prospecting-sch_g_brand_alpha&utm_content=Alpha_Brand_Umbrella_Core&utm_term=cloudflare&campaignid=71700000112000371&adgroupid=58700008461369612&creativeid=664212396473&&_bt=664212396473&_bk=cloudflare&_bm=p&_bn=g&_bg=150613024493&_placement=&_target=&_loc=1001570&_dv=c&awsearchcpc=1&gad_source=1&gclid=EAIaIQobChMIoN3y1YGHhwMVyQCtBh0AjQ2_EAAYASAAEgLe0fD_BwE&gclsrc=aw.ds) <br>  [**Figma**](https://www.figma.com/login?is_not_gen_0=true&resource_type=team) <br></br>
-<h3>Monitoramento do projeto</h3>
-<br>
-Via dailys e monitoramento pelo Trello
-Introdução
+<h3>Monitoramento do projeto</h3> <br>
+Via dailys e monitoramento pelo Trello,
 Este documento descreve o processo de criação de um site no WordPress e as medidas de segurança implementadas tanto no WordPress quanto através do Cloudflare. O objetivo é fornecer um guia detalhado para a implementação de um site seguro, eficiente e de fácil manutenção.
 <br>
 <h1> 📰 Planejamento do Projeto</h1>
@@ -209,12 +210,7 @@ Este documento descreve o processo de criação de um site no WordPress e as med
  </pre>
 </details>
 
-<details>
-<summary> <strong> 	:heavy_check_mark: Conclusão</strong></summary>
-<br>
-<pre>
-<strong>A criação de um site no WordPress requer planejamento cuidadoso, desde a configuração inicial até a implementação de medidas<br> de segurança :lock:. Utilizar serviços adicionais como o Cloudflare pode ajudar a proteger e otimizar<br> o desempenho do site. Esta documentação serve como um guia para garantir que todas as etapas essenciais sejam cobertas,<br> resultando em um site seguro, eficiente e de fácil manutenção :wrench:.</strong>
-<br>
+Ao concluir, é vital reconhecer o cuidadoso planejamento e implementação de medidas de segurança essenciais ao criar um site no WordPress. O uso de serviços adicionais, como o Cloudflare, fortalece a proteção e otimiza o desempenho do site. Este guia detalhado visa garantir a cobertura de todas as etapas cruciais, resultando em um site seguro, eficiente e de fácil manutenção. Sendo assim, é fundamental manter-se atualizado com as referências fornecidas para sustentar a segurança e a qualidade do site a longo prazo. <br>
 <h3>Referências</h3>
  <br>
 •	Documentação Oficial do WordPress
@@ -222,5 +218,6 @@ Este documento descreve o processo de criação de um site no WordPress e as med
 •	Guia de Segurança do WordPress
  <br>
 •	Documentação do Cloudflare
-</pre>
-</details>
+
+
+
